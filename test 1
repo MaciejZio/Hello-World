@@ -1,0 +1,15 @@
+#include<iostream>
+
+int main()
+{
+std::cout<<"Hello World\n";
+
+int a,b;
+std::cout<<"Podaj A :";
+std::cin>>a;
+std::cout<<"Podaj B :";
+std::cin>>b;
+std::cout<<"Suma "<<a<<" + "<<b<<" to "<<a+b;
+
+return 0;
+}
